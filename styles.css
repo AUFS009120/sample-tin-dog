@@ -8,6 +8,9 @@
 .navbar{
   padding: 0 0 4.5rem;
 }
+.pad{
+    padding-bottom:10px;
+}
 h1 {
   font-family: "Montserrat";
   font-size: 3.5rem;
