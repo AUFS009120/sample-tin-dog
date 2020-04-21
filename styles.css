@@ -75,8 +75,7 @@ z-index: 1;
 }
 .iphone{
   transform: rotate(20deg);
-  width:400px;
-  height: 807px;
+  width:50%;
   margin-left: 7%;
   position: absolute;
   right:20%;
