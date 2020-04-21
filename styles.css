@@ -1,0 +1,96 @@
+#title{
+    background-color: #ff4c68;
+    color: white;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+h1 {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+}
+#pricing{
+  padding: 3% 15%;
+  background-color: #f4dada;
+
+}
+h2{
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color:black;
+}
+.navbar-brand{
+ padding-left: 0;
+}
+
+#testimonials{
+  padding: 7% 15%;
+    background-color: #ff4c68;
+}
+.test{
+  text-align: center;
+}
+#press{
+background-color: #ff4c68;
+padding-bottom: 3%;
+text-align: center;
+}
+.press-icon{
+  width: 20%;
+
+}
+.doggie{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px 20px 0 20px;
+}
+.btn{
+  margin: 5% 4%;
+}
+#features{
+padding: 7% 15%;
+background-color: white;
+position: relative;
+z-index: 1;
+}
+.feature-box{
+  text-align: center;
+  padding: 4%;
+}
+.icon{
+  margin-bottom: 7%;
+  color: #ff4c68;
+}
+.ficon{
+  padding: 0 1%;
+  color: #3b6978;
+
+}
+.iphone{
+  transform: rotate(20deg);
+  width:400px;
+  height: 807px;
+  margin-left: 7%;
+  position: absolute;
+  right:20%;
+}
+#cta{
+  background-color: #ff4c68;
+  padding: 3% 7% 0.1%;
+  text-align: center;
+}
+#footer{
+  padding: 0.1% 7%;
+  text-align: center;
+}
+@media (max-width:1200px){
+  .iphone{
+    position: static;
+    transform: rotate(0deg);
+    text-align: center;
+  }
+}
