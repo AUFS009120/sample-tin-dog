@@ -1,1 +1,1 @@
-git clone https://vinodhr37.github.io/sample-tin-dog/
+get clone https://vinodhr37.github.io/sample-tin-dog/
